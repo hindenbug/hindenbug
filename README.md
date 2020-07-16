@@ -7,11 +7,12 @@
 
 ##### Programming Languages
 
-Currently working wiith Elixir, dabbling around with <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width="32" height="32"/>, Go
+Currently working with Elixir, dabbling around with <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width="32" height="32"/>, Go
+
 Experienced in Python, Ruby
 
 
-###### Interests
+##### Interests
 
 Rust/Go/Elixir, Distributed Systems/Databases
 
