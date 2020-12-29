@@ -11,15 +11,19 @@ Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br>
 #### Programming Languages 
 
 ![forthebadge](https://img.shields.io/badge/-Elixir-52345f?style=flat-square&logo=elixir&logoColor=white)
-[![forthebadge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) [![forthebadge](https://img.shields.io/badge/-Go-00a7d0?style=flat-square&logo=go&logoColor=white)![forthebadge](https://img.shields.io/badge/-Python-3D7AAB?style=flat-square&logo=python&logoColor=white), ![forthebadge](https://img.shields.io/badge/-Ruby-AE1401?style=flat-square&logo=ruby&logoColor=white)
+![forthebadge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) 
+![forthebadge](https://img.shields.io/badge/-Go-00a7d0?style=flat-square&logo=go&logoColor=white) 
+![forthebadge](https://img.shields.io/badge/-Python-3D7AAB?style=flat-square&logo=python&logoColor=white) 
+![forthebadge](https://img.shields.io/badge/-Ruby-AE1401?style=flat-square&logo=ruby&logoColor=white)
 
 #### Other Tools
 
-![forthebadge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![forthebadge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), postgres, mysql, aws, terraform etc
 
 #### Interests
 
-Rust/Go/Elixir, Distributed Systems/Databases
+![forthebadge](https://img.shields.io/badge/--000000?style=flat-square&logo=rust&logoColor=white) [![forthebadge](https://img.shields.io/badge/--00a7d0?style=flat-square&logo=go&logoColor=white),![forthebadge](https://img.shields.io/badge/--52345f?style=flat-square&logo=elixir&logoColor=white)
+Distributed Systems/Databases 
 
 #### Contact
 
