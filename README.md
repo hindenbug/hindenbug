@@ -18,14 +18,14 @@ Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br>
 
 #### Frameworks & Other Tools
 
-![forthebadge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![forthebadge](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![forthebadge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![forthebadge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![forthebadge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Interests
 
