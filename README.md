@@ -37,7 +37,7 @@ Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br>
 
 #### Interests
 
-![forthebadge](https://img.shields.io/badge/--000000?style=for-the-badge&logo=rust&logoColor=white) ![forthebadge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![forthebadge](https://img.shields.io/badge/--52345f?style=for-the-badge&logo=elixir&logoColor=white) ![forthebadge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![forthebadge](https://img.shields.io/badge/--000000?style=for-the-badge&logo=rust&logoColor=white) ![forthebadge](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![forthebadge](https://img.shields.io/badge/--52345f?style=for-the-badge&logo=elixir&logoColor=white) ![forthebadge](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
 Distributed Systems/Databases 
 
 #### Contact
