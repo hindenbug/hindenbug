@@ -4,7 +4,7 @@
 **hindenbug/hindenbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p>Welcome to my page! </br> 
-I'm Manoj, 1x Developer 👨‍💻. Generalist in making. Foraying into Distributed Systems. </br> 
+I'm Manoj, 1x Developer 👨‍💻. Generalist in making. Foraying into Distributed Systems/Databases, PLT's </br> 
 Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br> 
 </p>
 
