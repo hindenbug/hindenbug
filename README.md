@@ -1,11 +1,18 @@
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hindenbug&color=55acb7&style=for-the-badge&logo=Github)
+
 ## Hi 👋
 
 <!--
 **hindenbug/hindenbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>Welcome to my page! </br> 
-I'm Manoj, 1x Developer 👨‍💻. Generalist in making. Foraying into Distributed Systems/Databases, PLT's </br> 
-Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br> 
+<p>I'm Manoj </br>
+
+* 1x Developer 👨‍💻
+* Generalist in making.
+* Foraying into Distributed Systems/Databases & PLT's
+* Philatelist.
+* 🎮 Gamer 🎮.
+* 🪐 Space Enthusiast 🚀
 </p>
 
 #### Programming Languages 
@@ -34,14 +41,13 @@ Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br>
 ![forthebadge](https://img.shields.io/badge/emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 #### Interests
 
 ![forthebadge](https://img.shields.io/badge/--000000?style=for-the-badge&logo=rust&logoColor=white) 
 ![forthebadge](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 *Distributed Systems/Databases*
 
-#### Contact
+#### How to Reach Me
 
 [![forthebadge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hindenbug) 
 [![forthebadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/manojk27)
