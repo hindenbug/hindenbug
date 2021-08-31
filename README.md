@@ -10,9 +10,9 @@ Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br>
 
 #### Programming Languages 
 
-![forthebadge](https://img.shields.io/badge/Elixir-52345f?style=for-the-badge&logo=elixir&logoColor=white)
+![forthebadge](https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=go&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
-![forthebadge](https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=go&logoColor=white) 
+![forthebadge](https://img.shields.io/badge/Elixir-52345f?style=for-the-badge&logo=elixir&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -37,8 +37,9 @@ Philatelist. 🎮 Gamer 🎮. 🪐 Space Enthusiast 🚀 </br>
 
 #### Interests
 
-![forthebadge](https://img.shields.io/badge/--000000?style=for-the-badge&logo=rust&logoColor=white) ![forthebadge](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![forthebadge](https://img.shields.io/badge/--52345f?style=for-the-badge&logo=elixir&logoColor=white) ![forthebadge](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-Distributed Systems/Databases 
+![forthebadge](https://img.shields.io/badge/--000000?style=for-the-badge&logo=rust&logoColor=white) 
+![forthebadge](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+*Distributed Systems/Databases*
 
 #### Contact
 
