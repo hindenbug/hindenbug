@@ -5,47 +5,32 @@
 <!--
 **hindenbug/hindenbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>I'm Manoj </br>
+<p>I'm Manoj. ☼
+</br>
 
-* 1x Developer 👨‍💻
+* 👨‍💻 1x Developer
 * Generalist in making.
-* Foraying into Distributed Systems/Databases & PLT's
-* Philatelist.
-* 🎮 Gamer 🎮.
+* 📮📬 Philatelist.
+* 🎮 Gamer.
 * 🪐 Space Enthusiast 🚀
+* ⚙️ I use: `.go`, `.py`, `.rs`, `.rb`, `.zig`, `.ex`
+* Distributed Systems/Databases & PLT
 </p>
 
-#### Programming Languages 
-
-![forthebadge](https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=go&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
-![forthebadge](https://img.shields.io/badge/Elixir-52345f?style=for-the-badge&logo=elixir&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 #### Frameworks & Others
 
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![forthebadge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 #### Editors
-![forthebadge](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Interests
-
-![forthebadge](https://img.shields.io/badge/--000000?style=for-the-badge&logo=rust&logoColor=white) 
-![forthebadge](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-*Distributed Systems/Databases*
 
 #### How to Reach Me
 
